@@ -1,0 +1,8 @@
+/* Your form design */
+.card {
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+}
+
+input:hover, select:hover {
+  background-color: rgb(239, 253, 255)
+}
